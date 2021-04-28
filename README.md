@@ -23,3 +23,7 @@ Old software
        * https://github.com/toolness/passage-emscripten
 
        * http://passage.toolness.org/
+
+* TSR programs
+
+     * http://tigcc.ticalc.org/tut/tsrclock.html
